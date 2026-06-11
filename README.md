@@ -34,8 +34,8 @@ O layout usa media queries para adaptar painéis, mapas, fluxo e navegação em 
 O projeto inclui foco visível, contraste alto, ajuste de fonte, botão de voltar ao topo, `aria-live` em áreas dinâmicas, rótulos em formulários, textos acessíveis e navegação por teclado.
 
 ## Dados do projeto
-Nome: Daniel Nadalin
-Turma: 3 ano E
+Nome: Eduardo Matheus Nikele
+Turma: 2°C
 
 ## Copyright
 © 2026 - Todos os direitos reservados.
